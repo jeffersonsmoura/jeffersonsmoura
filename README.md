@@ -41,5 +41,5 @@ Atuar na área de desenvolvimento de software, contribuindo para projetos que po
 
 📬 Contato
 
-< a  href = " https://www.linkedin.com/in/jefferson-moura-037b41161/ "  target = " _blank " >< img  src = " https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white "  target = " _blank " ></ a >
-< a  href = " jeffersonsmoura96@gmail.com " >< img  src = " https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white "  target = " _blank " ></ a >
+  <a href = "jeffersonsmoura96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-moura-037b41161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
